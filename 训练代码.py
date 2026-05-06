@@ -1,0 +1,1 @@
+python train.py --data data/VisDrone.yaml --cfg models/yolov5s.yaml --weights yolov5s.pt --epochs 100 --img 640 --batch 4
